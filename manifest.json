@@ -1,18 +1,18 @@
 {
-    "name": "Raj Web App",
-    "short_name": "Raj",
-    "start_url": "http://localhost/r/r/h/update/index.html",
+    "name": "count",
+    "short_name": "count",
+    "start_url": "https://darkconweb.github.io/coun/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
     "icons": [
         {
-            "src": "http://localhost/r/r/h/update/icon.png",
+            "src": "https://darkconweb.github.io/coun/icon.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "http://localhost/r/r/h/update/icon.png",
+            "src": "https://darkconweb.github.io/coun/icon.png",
             "type": "image/png",
             "sizes": "512x512"
         }
