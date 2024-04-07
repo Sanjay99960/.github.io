@@ -5,9 +5,9 @@ self.addEventListener('install', event => {
             return cache.addAll([
                 // List of files to be cached
                 'index.html',
-                'http://localhost/r/r/h/update/index.html',
-                'http://localhost/r/r/h/update/icon.png',
-                'http://localhost/r/r/h/update/icon.png',
+                'https://darkconweb.github.io/coun/index.html',
+                'https://darkconweb.github.io/coun/icon.png',
+                'https://darkconweb.github.io/coun/icon.png',
                 // Add other assets here, e.g., CSS, JS, images, etc.
             ]);
         })
